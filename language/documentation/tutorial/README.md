@@ -24,10 +24,10 @@ Now let's get started!
 
 ## Step 0: Installation<span id="Step0"><span>
 
-If you haven't already, open your terminal and clone [the Move repository](https://github.com/wanting-aspecta/move.git):
+If you haven't already, open your terminal and clone [the Move repository](https://github.com/wanting-aspecta/move):
 
 ```bash
-git clone https://github.com/move-language/move.git
+git clone https://github.com/wanting-aspecta/move.git
 ```
 
 Go to the `move` directory and run the `dev_setup.sh` script:
